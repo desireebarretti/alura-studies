@@ -1,11 +1,11 @@
 import React from "react";
-import './Botao.css'
+import './style.scss';
 
 // formato de componente em typescript
 class Botao extends React.Component {
     render() {
         return (
-            <button>
+            <button className="botao">
                 Botão
             </button>
         )
