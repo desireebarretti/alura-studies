@@ -1,4 +1,5 @@
 import React from "react";
+import './Botao.css'
 
 // formato de componente em typescript
 class Botao extends React.Component {
